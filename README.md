@@ -1,7 +1,7 @@
 # Gemini LLM Food Image Analysis
 
 ## Project Overview
-This project utilizes **Google's Gemini LLM** along with the **USDA Food Data API** to analyze food images and extract nutritional information. By uploading an image of a meal, the script identifies food items using **Gemini 1.5 Flash** and fetches corresponding **calories, protein, carbohydrates, and fat** data from the USDA API.
+This project utilises **Google's Gemini LLM** along with the **USDA Food Data API** to analyse food images and extract nutritional information. By uploading an image of a meal, the script identifies food items using **Gemini 1.5 Flash** and fetches corresponding **calories, protein, carbohydrates, and fat** data from the USDA API.
 
 This project is useful for **food tracking, meal planning, and nutrition analysis**, making it a great tool for fitness enthusiasts, dieticians, and researchers.
 
